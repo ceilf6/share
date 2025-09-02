@@ -10,4 +10,4 @@ git clone https://github.com/ceilf6/share.git
 ```
 或者点击 Download
 
-如果有帮到您的话欢迎给个 star / follow ~
+如果有帮到您的话欢迎给个 ⭐star / follow ~
